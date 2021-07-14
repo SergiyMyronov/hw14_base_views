@@ -30,7 +30,4 @@ To get this project up and running locally on your computer:
 
     Open a browser to http://127.0.0.1:8000/admin/ to open the admin site.
 
-    Open tab to http://127.0.0.1:8000/base_views/city/ to see all cities information.
-    Open tab to http://127.0.0.1:8000/base_views/supp/ to see all supplierss information.
     Open tab to http://127.0.0.1:8000/base_views/prod/ to see all products information.
-    Open tab to http://127.0.0.1:8000/base_views/cust/ to see all customers information.
